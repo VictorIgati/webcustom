@@ -1,0 +1,62 @@
+.yt{
+  background-color: rgb(8, 0, 255);
+  color: rgb(226, 213, 213);
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  padding-left: 16px;
+  padding-top: 13px;
+  padding-right: 16px;
+  padding-bottom: 13px;
+  border-radius: 4px;
+
+
+  }
+  .yt:hover{
+    background-color: red;
+    box-shadow: 5px 5px 5px rgba(0,0,0,1);
+  }
+  .yt:active{
+    background-color: red;
+    stop-opacity: 0.7;
+  }
+  
+
+
+.jn{
+  background-color: white;
+  color: rgb(99, 99, 242);
+  border-color: rgb(99, 99, 242);
+  border-radius: 3px;
+  cursor: pointer;
+  border-style: solid;
+  transition: background-color 0.3s;
+   color: 0.3s;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+
+}
+.jn:hover{
+  background-color: rgb(99, 99, 242);
+  color: white;
+}
+
+.twt{
+  background-color: hsl(240, 91%, 70%);
+  color: white;
+  border-radius: 36px;
+  cursor: pointer;
+  height: 36px;
+  border: none;
+  margin-left: 15px;
+  width: 70px;
+  font-weight: bolder;
+  transition: background-color 0.2s;
+   box-shadow: 0.15s;
+}
+.twt:hover{
+  background-color: black;
+  box-shadow: 5px 5px 7px rgba(0, 0, 0, 1);
+}

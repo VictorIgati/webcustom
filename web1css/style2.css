@@ -1,0 +1,28 @@
+body{
+  background-color: blueviolet;
+}
+
+.but1{
+  background-color: black;
+  color: white;
+  border: none;
+  height: 35px;
+  width: 110px;
+  font-weight: bold;
+  font-size: 12px;
+  font-weight: 150;
+  cursor: pointer;
+}
+
+.but2{
+  background-color: rgb(255,216,20);
+  font-weight: bold;
+  font-weight: 500;
+  font-size: 20px;
+  height: 35px;
+  width: 200px;
+  border-radius: 36px;
+  border: none;
+  cursor: pointer;
+
+}

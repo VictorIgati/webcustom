@@ -1,0 +1,4 @@
+<--!text element!-->
+<--They are used in a text to make changes in a specific part of a txt -->
+  <--!e.g <p>The house is burning<strong><u>now</u></strong>!-->
+    <--!The output will be the sentence plud now being underlined!-->
